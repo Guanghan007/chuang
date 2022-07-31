@@ -19,6 +19,7 @@ Git账户名称：renxia1739
 
 所做项目
 
+
 项目一：
 
 项目名称：research report on MPT
@@ -29,5 +30,8 @@ Git账户名称：renxia1739
 影响，数据跨越自由的通过任意媒介，且没有损坏，也没有改变。
 
 完成人：王逸腾、隋佩杭、孟冲
+
 代码说明：在CPP文件中有说明
-运行截图：
+
+运行截图：![图片](https://user-images.githubusercontent.com/109494359/182005215-8b308e11-38eb-48ef-97b2-3cd4f804bff8.png)
+
