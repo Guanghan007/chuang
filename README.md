@@ -55,7 +55,8 @@ Git账户名称：renxia1739
 
 代码说明：在CPP文件中有说明
 
-运行截图：![图片](https://user-images.githubusercontent.com/109494359/182005253-b1367497-516c-49a1-90fe-7a7deb697154.png)
+运行截图：
+![图片](https://user-images.githubusercontent.com/109494359/182005253-b1367497-516c-49a1-90fe-7a7deb697154.png)
 
 贡献说明：
 
