@@ -76,7 +76,8 @@ Git账户名称：renxia1739
 
 代码说明：大部分注释已在代码中说明
 
-运行截图：![图片](https://user-images.githubusercontent.com/109494359/182005293-9eefca48-26a5-41e1-a6c8-27544fab2b33.png)
+运行截图：
+![图片](https://user-images.githubusercontent.com/109494359/182005293-9eefca48-26a5-41e1-a6c8-27544fab2b33.png)
 
 贡献说明：
 
